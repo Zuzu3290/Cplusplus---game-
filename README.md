@@ -22,6 +22,7 @@ Before compiling and running the program, make sure the following are installed:
 
 ## Compile
 File : [solar_system.cpp](./solar_system.cpp)
+
 Open a terminal in the project directory and compile the program using:
 
 ```bash
