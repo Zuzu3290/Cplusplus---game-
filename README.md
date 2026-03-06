@@ -21,11 +21,11 @@ Before compiling and running the program, make sure the following are installed:
 ---
 
 ## Compile
-
+File : [solar_system.cpp](./solar_system.cpp)
 Open a terminal in the project directory and compile the program using:
 
 ```bash
-g++ solar_system.cpp -o solar_system -I/mingw64/include -L/mingw64/lib -lSDL2 -lOpenCL -std=c++17
+g++ solar_system.cpp -o solar_system -I/mingw64/include -L/mingw64/lib -lSDL2 -lOpenCL -std=c++17
 ```
 ```bash
 solar_system.exe
